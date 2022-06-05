@@ -1,0 +1,10 @@
+/*  Navbar design */
+.navbar-nav a {
+  font-size: 18px;
+}
+
+.bg-light-border {
+  border: 0.1px solid #f3f2f2;
+  padding: 20px 10px;
+  border-radius: 4px;
+}

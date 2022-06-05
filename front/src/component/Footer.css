@@ -1,0 +1,48 @@
+.footer-container {
+    width: 100%;
+    background-color: #000;
+    min-height: 100px;
+    color: #fff;
+    padding-top: 10px;
+}
+
+.footer-body {
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+    align-items: center !important;
+
+}
+
+.footer-title {
+    font-size: 22px;
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+
+.footer-info {
+    font-family: "Roboto", sans-serif;
+    font-size:  17px;
+    letter-spacing: .5px;
+}
+
+.move-top i{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    font-size: 15px;
+    background: #fff;
+    color: #000;
+    margin: 12px 12px 0 0px;
+    cursor: pointer;
+    transition: .4s ease;
+    outline: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.move-top i:hover {
+    color: orange;
+}
