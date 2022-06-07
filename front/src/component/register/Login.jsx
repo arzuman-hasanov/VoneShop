@@ -14,7 +14,7 @@ function Login() {
 
     return (
       <div className="d-lg-flex half">
-    <div className="bg order-1 order-md-2" style={{"backgroundImage":"url('https://avatars.mds.yandex.net/get-images-cbir/165367/D4Favk3JmY6LQHnvldFjwg892/ocr')"}}></div>
+    <div className="bg order-1 order-md-2" style={{"backgroundImage":"url('https://avatars.mds.yandex.net/get-images-cbir/1885741/D4Favk3JmY6LQHnvldFjwg1110/ocr')"}}></div>
     <div className="contents order-2 order-md-1">
 
       <div style={{"paddingTop":"60px"}} className="container">
